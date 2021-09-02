@@ -1,0 +1,5 @@
+.env
+.env.local
+database/pgdata
+node_modules
+docker-compose.yml
